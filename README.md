@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **nicha.fn@gmail.com**
 
-- ⚡ Fun fact **Dog lover, experienced cook**
+- ⚡ Fun fact **Dog lover, enjoy dancing, love to cook, enjoy eating**
+
+- 💬 Ask me absolutely anything. 
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">

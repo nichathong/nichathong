@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MERN project, Sprout](https://sprout-plant-app.herokuapp.com/)
 
-- 📫 How to reach me **nicha.fn@gmail.com**
+- 📫 How to reach me **nichapanchang@gmail.com**
 
 - ⚡ Fun fact **Dog lover, enjoy dancing, love to cook, enjoy eating**
 

@@ -5,13 +5,13 @@
 <h3 align="left">About me:</h3>
 I graduated from App Academy's immersive software development program, where I gained experience working with JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, and MongoDB. Additionally, I have worked with Google Maps API, D3.js, Amazon Web Services, Heroku, and Webpack to build my projects. My unique background in customer service and the culinary industry has equipped me with strong communication skills, adaptability, and problem-solving abilities, allowing me to collaborate effectively and bring a well-rounded perspective to software development.
 
-## 🔭 Current Project  
+### 🔭 Current Project  
 I’m currently volunteering with **GirlBunch**, a stealth startup, to develop a mobile app designed to support young people.
 
-## 📫 Contact Me  
+### 📫 Contact Me  
 **Email:** [nichapanchang@gmail.com](mailto:nichapanchang@gmail.com)
 
-## ⚡ Fun Facts  
+### ⚡ Fun Facts  
 - Dog lover 🐶  
 - Enjoy dancing 💃  
 - Love to cook 👩‍🍳  

@@ -5,11 +5,11 @@
 <h3 align="left">About me:</h3>
 <p>My name is Nicha Thongpanchang. I graduated from App Academy's immersive software development program, where I gained experience working with JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, and MongoDB. Additionally, I have worked with Google Maps API, D3.js, Amazon Web Services, Heroku, and Webpack to build my projects. My unique background in customer service and the culinary industry has equipped me with strong communication skills, adaptability, and problem-solving abilities, allowing me to collaborate effectively and bring a well-rounded perspective to software development. </p>
 
-- 🔭 I’m currently working on [MERN project, Sprout](https://sprout-plant-app.herokuapp.com/)
+- 🔭 I’m currently volunteering with GirlBunch, a stealth startup, to develop a mobile app designed to support young people.
 
 - 📫 How to reach me **nichapanchang@gmail.com**
 
-- ⚡ Fun fact **Dog lover, enjoy dancing, love to cook, enjoy eating**
+- ⚡ Fun fact: **Dog lover, enjoy dancing, love to cook, enjoy eating**
 
 - 💬 Ask me absolutely anything. 
 ---------

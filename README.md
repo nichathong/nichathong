@@ -3,9 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nichathong&label=Profile%20views&color=0e75b6&style=flat" alt="nichathong" /> </p>
 <h3 align="left">About me:</h3>
-<p>My name is Nicha Thongpanchang. I have begun by coding journey 4 months ago by joining immersive software developer from App Academy and was be able to successfully completed within 16 weeks with 80 - 100 hours of work per week. The technologies that I've worked with are JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, MongoDB.</p>
-
-<p>I have also used Google Map API, D3.js, Amazon Web Service, Heroku and webpack to created my projects </p>
+<p>My name is Nicha Thongpanchang. I graduated from App Academy's immersive software development program, where I gained experience working with JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, and MongoDB. Additionally, I have worked with Google Maps API, D3.js, Amazon Web Services, Heroku, and Webpack to build my projects. My unique background in customer service and the culinary industry has equipped me with strong communication skills, adaptability, and problem-solving abilities, allowing me to collaborate effectively and bring a well-rounded perspective to software development. </p>
 
 - 🔭 I’m currently working on [MERN project, Sprout](https://sprout-plant-app.herokuapp.com/)
 

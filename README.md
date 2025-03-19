@@ -3,15 +3,24 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nichathong&label=Profile%20views&color=0e75b6&style=flat" alt="nichathong" /> </p>
 <h3 align="left">About me:</h3>
-<p>My name is Nicha Thongpanchang. I graduated from App Academy's immersive software development program, where I gained experience working with JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, and MongoDB. Additionally, I have worked with Google Maps API, D3.js, Amazon Web Services, Heroku, and Webpack to build my projects. My unique background in customer service and the culinary industry has equipped me with strong communication skills, adaptability, and problem-solving abilities, allowing me to collaborate effectively and bring a well-rounded perspective to software development. </p>
+# Nicha Thongpanchang
 
-- 🔭 I’m currently volunteering with GirlBunch, a stealth startup, to develop a mobile app designed to support young people.
+I graduated from App Academy's immersive software development program, where I gained experience working with JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, and MongoDB. Additionally, I have worked with Google Maps API, D3.js, Amazon Web Services, Heroku, and Webpack to build my projects. My unique background in customer service and the culinary industry has equipped me with strong communication skills, adaptability, and problem-solving abilities, allowing me to collaborate effectively and bring a well-rounded perspective to software development.
 
-- 📫 How to reach me **nichapanchang@gmail.com**
+## 🔭 Current Project  
+I’m currently volunteering with **GirlBunch**, a stealth startup, to develop a mobile app designed to support young people.
 
-- ⚡ Fun fact: **Dog lover, enjoy dancing, love to cook, enjoy eating**
+## 📫 Contact Me  
+**Email:** [nichapanchang@gmail.com](mailto:nichapanchang@gmail.com)
 
-- 💬 Ask me absolutely anything. 
+## ⚡ Fun Facts  
+- Dog lover 🐶  
+- Enjoy dancing 💃  
+- Love to cook 👩‍🍳  
+- Enjoy eating 🍜  
+
+## 💬 Ask me anything!  
+
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
